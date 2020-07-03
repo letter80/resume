@@ -24,6 +24,6 @@
 <a href=www.hallym.ac.kr>한림대학교</a>
 
   주소 목록을 별도로 관리할 수 있다.  
-[hallym]: http://www.hallym.ac.kr/
+[hallym]:http://www.hallym.ac.kr/
 
 [한림][hallym]
