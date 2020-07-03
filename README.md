@@ -36,4 +36,4 @@
 |---|---|
 |<span style="color:red">GIT</span>|A+|
 
-![github page](github.PNG)
+![github page](github.png)
